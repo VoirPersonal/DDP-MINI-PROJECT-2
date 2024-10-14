@@ -3,6 +3,7 @@
 - Nama : Fikri Abiyyu Rahman.
 - Kelas : B
 - NIM : 2409116063
+- Tema : Sistematis pengelolaan parkir mobil
 
 ## Membuat tampilan tabel dengan menggunakan PreattyTable
 ```python
@@ -220,3 +221,34 @@ Fungsi ini menampilkan tampilan menu yang terdiri dari:
 - Jika kamu adalah admin, silakan login terlebih dahulu untuk mengakses fitur admin.
 - Untuk proses keluar masuk kendaraan, bisa melalui fitur yang telah tersedia di menu utama.
 - Jika sudah selesai menggunakan fitur admin, jangan lupa keluar
+
+## Berikut tampilan output dari kode ini (fitur masuk dan keluar kendaraan)
+#### Masuk kendaraan
+![image](https://github.com/user-attachments/assets/360450b4-fbff-42f2-8be4-26aee3edadd1)
+
+#### Keluar kendaraan
+![image](https://github.com/user-attachments/assets/91e624b6-c57b-4d45-800c-3216dcc156f6)
+
+#### Lihat data kendaraan
+![image](https://github.com/user-attachments/assets/4f527214-56e7-4cde-8a6a-db7818d898bf)
+
+#### Menu admin
+![image](https://github.com/user-attachments/assets/139006cb-680d-458a-b9b5-2794da76c20b)
+
+#### Fitur admin menambah data kendaraan
+![image](https://github.com/user-attachments/assets/3e203827-fc84-42b5-b25b-a8e30224a13e)
+
+#### Fitur admin melihat data kendaraan
+![image](https://github.com/user-attachments/assets/672abfed-07e6-41cb-a8d6-9744f38e78aa)
+
+#### Fitur admin memperbarui data kendaraan
+![image](https://github.com/user-attachments/assets/a2bd7216-a04d-4d62-89a9-ded86095e595)
+
+#### Fitur admin menghapus data kendaraan
+![image](https://github.com/user-attachments/assets/56bb4614-d4cf-448d-a2ae-d7c8b7ab8048)
+
+#### Keluar dari fitur admin dan user biasa
+![image](https://github.com/user-attachments/assets/518a788e-96f6-4d2f-9b62-73d571cea3a4)
+
+### Berikut tampilan Flowchart dari program ini
+![MINIPROJECT 2 drawio](https://github.com/user-attachments/assets/d00e113c-18b5-4cc6-8a1e-6962031a66d7)
