@@ -222,7 +222,7 @@ Fungsi ini menampilkan tampilan menu yang terdiri dari:
 - Untuk proses keluar masuk kendaraan, bisa melalui fitur yang telah tersedia di menu utama.
 - Jika sudah selesai menggunakan fitur admin, jangan lupa keluar
 
-## Berikut tampilan output dari kode ini (fitur masuk dan keluar kendaraan)
+## Berikut tampilan output dari kode ini
 #### Masuk kendaraan
 ![image](https://github.com/user-attachments/assets/360450b4-fbff-42f2-8be4-26aee3edadd1)
 
