@@ -54,7 +54,7 @@ try :
         print("\n=== DATA KENDARAAN ===")
         if data_mobil:
             tabel = PrettyTable()
-            tabel.field_names = ["Nomor Polisi", "Status", "Nomor Parkir"]
+            tabel.field_names = ["Nomor Plat", "Status", "Nomor Parkir"]
             for nomor_polisi, info in data_mobil.items():
                 tabel.add_row([nomor_polisi, info['status_mobil'], info['Nomor Parkir']])
             print(tabel)
