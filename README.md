@@ -5,6 +5,9 @@
 - NIM : 2409116063
 - Tema : Sistematis pengelolaan parkir mobil
 
+## Berikut tampilan Flowchart dari program ini
+![MINIPROJECT 2 drawio](https://github.com/user-attachments/assets/d00e113c-18b5-4cc6-8a1e-6962031a66d7)
+
 ## Membuat tampilan tabel dengan menggunakan PreattyTable
 ```python
 from prettytable import PrettyTable
@@ -249,6 +252,3 @@ Fungsi ini menampilkan tampilan menu yang terdiri dari:
 
 #### Keluar dari fitur admin dan user biasa
 ![image](https://github.com/user-attachments/assets/518a788e-96f6-4d2f-9b62-73d571cea3a4)
-
-### Berikut tampilan Flowchart dari program ini
-![MINIPROJECT 2 drawio](https://github.com/user-attachments/assets/d00e113c-18b5-4cc6-8a1e-6962031a66d7)
